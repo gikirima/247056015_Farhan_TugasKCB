@@ -1,0 +1,1 @@
+Ini adalah Tugas kedua dari Mata Kuliah Kecerdasan Buatan mengenai Artificial Neural Network
